@@ -1,6 +1,6 @@
-This is a Huyper Minimal Wordpress blog Theme developed from scratch. 
+This is a Hyper Minimal Wordpress blog Theme developed from scratch. 
 
-for learning purpose uyu can see the code  and styles
+for learning purpose you can see the code  and styles
 
 
 to develop this theme I took help from these links and Websites . 
