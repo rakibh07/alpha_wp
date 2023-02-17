@@ -1,9 +1,6 @@
-This is a Huyper Minimal Wordpress Theme build from scratch. 
+This is a Huyper Minimal Wordpress blog Theme developed from scratch. 
 
-for learning purpose uou can see the code 
-
-here is written basic code of Wordpress 
-
+for learning purpose uyu can see the code  and styles
 
 
 to develop this theme I took help from these links and Websites . 
